@@ -1,0 +1,6 @@
+{
+  "name": "Secure Student Information & Document Portal",
+  "description": "Enterprise-grade student identity and private document management portal featuring Three.js biometric face authentication, academic records, document vault, and security settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
